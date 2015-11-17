@@ -1,0 +1,23 @@
+name: rheefined
+favicon: null
+layout_spectrum: 0.9015535982325673
+typography_spectrum: 0.9873045135755092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6137943861540407
+  lightness: 0.4889106242917478
+  saturation: 0.6706198037136346
+  rhythmicContrast: 0.3172872248105705
+purpose: []
