@@ -1,23 +1,40 @@
-name: rheefined
-favicon: null
 layout_spectrum: 0.9015535982325673
-typography_spectrum: 0.9873045135755092
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors: []
+  saturation: 0.6706198037136346
   brandStrength: 0.6137943861540407
   lightness: 0.4889106242917478
-  saturation: 0.6706198037136346
+  brandColors:
+    - '#B5B3AC'
+    - '#F3F4F9'
+    - '#1F1E1F'
+    - '#9A9287'
+    - '#4B4239'
   rhythmicContrast: 0.3172872248105705
-purpose: []
+typography_spectrum: 0.9640172
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: rheefined
